@@ -5,7 +5,7 @@
 
        ** Consultants/TAM to breakout sessions**
 
-       **Managers to managers sessions**
+       **Managers to [managers sessions](../daily_agenda/managers_agenda.md).**
 ### Venue Information
 
 | Event | Venue |
