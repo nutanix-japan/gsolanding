@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-# APJ CX offsite event
-=======
 # Welcome to APJ CX 2023
->>>>>>> 31049dbac67526265855a89131b23298a683d6be
 
 Welcome to [Phuket](https://en.wikipedia.org/wiki/Phuket_(city)), Thailand !
 
@@ -15,5 +11,5 @@ Most of the labs have been customized for this event, as such you may encounter 
 
 Lastly, this is not a competition. The labs are designed to be completed in the time frame allocated. 
 
-Enjoy the labs!
+Enjoy the event and especially the labs!
 
