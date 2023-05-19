@@ -94,6 +94,10 @@ plugins:
 
 nav:
     - 'Overview': index.md
+    - 'Agenda': 
+      - 'Day Agenda': daily_agenda/daily_agenda.md
+      - 'Breakouts and Labs Agenda': daily_agenda/breakout_and_lab_agenda.md
+      - 'Managers Agenda': daily_agenda/managers_agenda.md
     - 'Cluster Lookup': cluster_lookup/cluster_lookup.md
     - 'Labs': gts_labs/gts_labs.md
     - 'Code of Conduct': code_conduct/code_conduct.md
