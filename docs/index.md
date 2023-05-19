@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # APJ CX offsite event
+=======
+# Welcome to APJ CX 2023
+>>>>>>> 31049dbac67526265855a89131b23298a683d6be
 
 Welcome to [Phuket](https://en.wikipedia.org/wiki/Phuket_(city)), Thailand !
 
