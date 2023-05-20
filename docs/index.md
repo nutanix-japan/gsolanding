@@ -3,7 +3,7 @@
 Welcome to [Phuket](https://en.wikipedia.org/wiki/Phuket_(city)), Thailand !
 
 
-This landing page serves as a goto place for the agenda for the week and information regarding each individual labs and how to access them. Please take note on the pre-requisite for each lab and ensure you use the work laptop/Mac for VPN connections. For partners, please use the appropriate VPN software and credentials to access the Nutanix HPOC environment.
+This landing page serves as a go to place for the agenda for the week and information regarding each individual labs and how to access them. Please take note on the pre-requisite for each lab and ensure you use the work laptop/Mac for VPN connections. For partners, please use the appropriate VPN software and credentials to access the Nutanix HPOC environment.
 
 By now, You should have been invited to slack channels for your assigned labs. We will use the Slack channel to facilitate on-going communications.
 
