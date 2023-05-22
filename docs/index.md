@@ -12,4 +12,3 @@ Most of the labs have been customized for this event, as such you may encounter 
 Lastly, this is not a competition. The labs are designed to be completed in the time frame allocated. 
 
 Enjoy the event and especially the labs!
-
