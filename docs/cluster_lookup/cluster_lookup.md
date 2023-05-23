@@ -6,13 +6,13 @@ Steps:
 
 1. Go to <a href="https://lookup.apj-cxrules.win" target="_blank">Lookup Site</a>
 2. Enter the following credentials (it is protected with credentials to prevent any attacks)
-   - **Username** - nutanix
-   - **Password** - `pinned to Slack`
-3. Once you are in the lookup page, enter your email
+   
+    - **Username** - nutanix
+    - **Password** - `pinned to Slack` (on Wednesday 24th morning)
+  
+3. Once you are in the lookup page, enter your company email
     
-    ```text
-    email@company.com
-    ```
+    ``email@company.com``
 
 4. You will see the following details:
    
@@ -20,7 +20,3 @@ Steps:
     - Nutanix cluster 
     - Cluster login credentials
     - Your Windows/Linux tools VM names and credentials (if any)
-   
-   You will also be able to copy details.
-   
-http://lookup.apj-cxrules.win
