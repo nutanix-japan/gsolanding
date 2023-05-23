@@ -25,5 +25,5 @@ Labs are performed on HPOC reserved for you by Technical Enablement team. All th
 |  # |  Time         | URL |
 |:---:|-----------|-----|
 |  1 | `09:30 - 18:30`| <a href="https://nutanix-japan.github.io/ocp-gitp/" target="_blank">OCP on Nutanix</a>  |
-|  2 |   `09:30 - 18:30` | <a href="https://secure23.howntnx.win" target="_blank">GTS 2023 - Secure</a>  |
+|  2 |   `09:30 - 18:30` | <a href="https://security.howntnx.win" target="_blank">GTS 2023 - Secure</a>  |
 |  3 |   `09:30 - 18:30`  | <a href="https://bootcamps.nutanix.com/ts23labs/migrate/" target="_blank">GTS 2023 - Migrate</a> |
