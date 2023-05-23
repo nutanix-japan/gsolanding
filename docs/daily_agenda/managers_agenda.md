@@ -53,6 +53,8 @@ Refer to the agenda [here](general_agenda.md).
 | ----------- | ----------- |
 | `Manager's Sessions` | Mokara 1 & 2 |
 
+### Agenda
+
 
 | Time | Duration | Event | Speaker |
 |-------------------------|------|----------|----------------|

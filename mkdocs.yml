@@ -88,10 +88,6 @@ markdown_extensions:
 plugins:
     - search
 
-# Style sheeting here
-# extra_css:
-#   - stylesheets/extra.css
-
 nav:
     - 'Overview': index.md
     - 'Agenda': 
