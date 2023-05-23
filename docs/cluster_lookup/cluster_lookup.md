@@ -17,6 +17,6 @@ Steps:
 4. You will see the following details:
    
     - Labs - only the ones you have registered for (other will be displayed `N/A`)
-    - Nutanix cluster 
-    - Cluster login credentials
+    - Nutanix cluster login credentials
+    - Other credentials and information specific to the labs
     - Your Windows/Linux tools VM names and credentials (if any)
